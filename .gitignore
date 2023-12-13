@@ -7,7 +7,6 @@
 _roadhog-api-doc
 
 # production
-/dist
 
 # misc
 .DS_Store
@@ -37,5 +36,3 @@ functions/*
 screenshot
 .firebase
 .eslintcache
-
-build
