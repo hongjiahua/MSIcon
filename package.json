@@ -1,9 +1,6 @@
 {
   "name": "ant-design-pro",
   "version": "6.0.0",
-  "private": true,
-  "description": "An out-of-box UI solution for enterprise applications",
-  "homepage": "https://hongjiahua.github.io/MSIcon",
   "scripts": {
     "analyze": "cross-env ANALYZE=1 max build",
     "build": "max build",
@@ -47,6 +44,9 @@
     "last 2 versions",
     "not ie <= 10"
   ],
+  "private": true,
+  "description": "An out-of-box UI solution for enterprise applications",
+  "homepage": "./MSIcon/",
   "dependencies": {
     "@ant-design/icons": "^4.8.0",
     "@ant-design/pro-components": "^2.3.57",
